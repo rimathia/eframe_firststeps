@@ -1,3 +1,5 @@
+# About
+Experimental repo based on [eframe_template](https://github.com/emilk/eframe_template).
 # eframe template
 
 [![dependency status](https://deps.rs/repo/github/emilk/eframe_template/status.svg)](https://deps.rs/repo/github/emilk/eframe_template)
